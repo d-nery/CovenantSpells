@@ -1,0 +1,7 @@
+## Interface: 90105
+## Title: Covenant Spells
+## Notes: Automatically update covenant spell macros
+## Author: Daniel Nery
+## Version: 1.0
+
+main.lua
